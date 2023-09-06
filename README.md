@@ -1,5 +1,5 @@
 # Copium.sh
-gotta have dem copes :) through the bad times. a simple scrit that
+gotta have dem copes :) through the bad times. a simple script that
 tells you everything is fine every 60 mins.
 
 # Instructions
