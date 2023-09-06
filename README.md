@@ -5,8 +5,8 @@ tells you everything is fine every 60 mins.
 # Instructions
 
 ```bash
-sudo chmod +x ./copium.sh
-./copium.sh
+sudo chmod +x ./Copium.sh
+./Copium.sh
 ```
 
 # Preview
