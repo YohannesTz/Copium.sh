@@ -8,6 +8,14 @@ tells you everything is fine every 60 secs.
 sudo chmod +x ./Copium.sh
 ./Copium.sh
 ```
+
+# Need ጋቭሮቭ jokes?
+- If u are sick of the repetitive copium message you can get the classic ጋቭሮቭ jokes by using `--joke` option.
+
+```bash
+   ./Copium.sh --joke
+```
+
 ## Systemd
 Set up systemd service to cope with ease.
 
