@@ -2,14 +2,32 @@
 gotta have dem copes :) through the bad times. a simple script that
 tells you everything is fine every 60 secs.
 
-# Instructions
+## Instructions
 
 ```bash
 sudo chmod +x ./Copium.sh
 ./Copium.sh
 ```
+This script relies on the following packages and tools to function properly:
 
-# Need ጋቭሮቭ jokes?
+ - notify-send: A command-line tool for sending desktop notifications.
+    ```bash
+      sudo apt install libnotify-bin
+    ```
+ - dunstify: A command-line tool for sending notifications using the Dunst notification daemon.
+     ```bash
+      sudo apt install dunst
+    ```
+ - curl: A command-line tool for making HTTP requests.
+      ```bash
+      sudo apt install curl
+    ```
+ - jq: A lightweight and flexible command-line JSON processor.
+       ```bash
+      sudo apt install jq
+    ```
+
+## Need ጋቭሮቭ jokes?
 - If u are sick of the repetitive copium message you can get the classic ጋቭሮቭ jokes by using `--joke` option.
 
 ```bash
