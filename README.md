@@ -23,7 +23,7 @@ This script relies on the following packages and tools to function properly:
       sudo apt install curl
     ```
  - jq: A lightweight and flexible command-line JSON processor.
-       ```bash
+    ```bash
       sudo apt install jq
     ```
 
