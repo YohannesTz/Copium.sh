@@ -34,6 +34,13 @@ This script relies on the following packages and tools to function properly:
    ./Copium.sh --joke
 ```
 
+## With Jesus?
+- If you wanna cope with Jesus's quotes you can use the following option.
+
+```bash
+  ./Copium.sh --with-jesus
+```
+
 ## Systemd
 Set up systemd service to cope with ease.
 
