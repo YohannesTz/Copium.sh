@@ -1,9 +1,4 @@
 #!/bin/bash
-read -p "Please Enter Package Manager: " pkm
-   sudo $pkm install -y libnotify-bin >> install.log
-   sudo $pkm install -y dunst >> install.log
-   sudo $pkm install -y jq >> install.log
-    rm install.log
 while true; do
   if [ "$1" = "" ]; then
     notify-send "Everything Is Going To Be Fine.." -i cope_cat.jpg
